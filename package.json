@@ -1,5 +1,5 @@
 {
-  "name": "novel",
+  "name": "novel-scoped-preflight",
   "version": "0.0.1",
   "scripts": {
     "build": "turbo build",
